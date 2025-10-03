@@ -1,16 +1,20 @@
-## Hi there 👋
+<img width="300" height="600" alt="image_720" src="https://github.com/user-attachments/assets/82e02206-45d8-489c-b129-4d272fe2a4d7" align="right"  />
 
-<!--
-**WolffAlc/WolffAlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🐺 Olá, eu sou o Wolf!  
 
-Here are some ideas to get you started:
+**Fala, Dev!** Bem-vindo ao meu GitHub 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 👨‍💻 Sobre mim  
+
+- 🎓 **Técnico em Desenvolvimento de Sistemas** @ [ETE](https://www.escolatecnicalimoeiro.com.br/) (3/3).  
+- 🌐 Apaixonado por **desenvolvimento Web**.  
+- 📱 Explorando o universo **Mobile**.  
+- ☕ **Java Lover** (sim, eu curto umas classes e interfaces 🤓).  
+- 📌 Também trabalho com **freelas** por aí.  
+- 🔥 Sempre em busca de novos desafios e aprendizados.  
+- 🖥️ Confira meu [**portfólio**](https://jeffersondev.netlify.app).  
+
+---
