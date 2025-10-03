@@ -1,4 +1,4 @@
-<img width="300" height="600" alt="image_720" src="https://github.com/user-attachments/assets/82e02206-45d8-489c-b129-4d272fe2a4d7" align="right" />
+<img width="350" height="700" alt="image_720" src="https://github.com/user-attachments/assets/82e02206-45d8-489c-b129-4d272fe2a4d7" align="right" />
 
 # 🐺 Olá, eu sou o Wolf!  
 
