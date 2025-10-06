@@ -58,13 +58,10 @@ Um dos mais recorrentes é Wolfgang Krauser, igual ao personagem dos jogos de lu
 ### ✨ Conecte-se comigo  
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://linkedin.com/in/seuusuario">
+  <a href="www.linkedin.com/in/wolfgang-carneiro-74a20521b">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" />
   </a>
-  <a href="https://jeffersondev.netlify.app">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=FFD700" />
-  </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:wolfgang.alexandre15@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFD700" />
   </a>
 </div>
