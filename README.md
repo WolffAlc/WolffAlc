@@ -1,14 +1,19 @@
 <img width="350" height="700" alt="image_720" src="https://github.com/user-attachments/assets/82e02206-45d8-489c-b129-4d272fe2a4d7" align="right" />
 
-# 🐺 Olá, eu sou o Wolf!  
+# 🐺 Olá, eu sou o Wolf! 
 
-**Fala, Dev!** Bem-vindo ao meu GitHub 🚀  
-
+Bem-vindo ao meu GitHub 🚀 
 ---
 
 ### 👨‍💻 Sobre mim  
-🎓 **Técnico em Desenvolvimento de Sistemas** @ [ETE](https://www.escolatecnicalimoeiro.com.br/) (3/3) • 🌐 Apaixonado por **desenvolvimento Web** • 📱 Explorando o universo **Mobile** • ☕ **Java Lover** (sim, eu curto umas classes e interfaces 🤓) • 📌 Também trabalho com **freelas** por aí • 🔥 Sempre em busca de novos desafios e aprendizados • 🖥️ Confira meu [**portfólio**](https://jeffersondev.netlify.app).  
+• 🎓 **Análise e Desenvolvimento de Sistemas** @ [UNINASSAU](https://www.uninassau.edu.br/) (3/3).
+• 🌐 Curto bastante **desenvolvimento Web e Banco de dados**.
+• ☕ **Gamer Developer** (quem sabe um dia hehe). 
+• 👨‍💻 Manjo um pouco de redes. 
+• 🎸 Músico nas horas vagas.
+• 🔥 Sempre em busca de novos desafios e aprendizados • 
 
+![krauser-realbout-fatalfury2-kaiser-wave](https://github.com/user-attachments/assets/069812df-a7e4-4ccd-b2fa-c30b10721289)
 ---
 
 ### 📊 Estatísticas  
