@@ -11,7 +11,16 @@ Bem-vindo ao meu GitHub 🚀
 • ☕ **Gamer Developer** (quem sabe um dia hehe). 
 • 👨‍💻 Manjo um pouco de redes. 
 • 🎸 Músico nas horas vagas.
-• 🔥 Sempre em busca de novos desafios e aprendizados • 
+• 🔥 Sempre em busca de novos desafios e aprendizados.
+
+
+### 🤔 Curiosidade
+
+• Meu nome é **Wolfgang**.
+Por ser um nome incomum por aqui, ele sempre chama atenção — e não é raro alguém tentar inventar um apelido criativo pra mim. 
+Um dos mais recorrentes é Wolfgang Krauser, igual ao personagem dos jogos de luta. Cada apresentação rende um apelido e uma história diferente!🤷‍♂️
+
+
 
 ![krauser-realbout-fatalfury2-kaiser-wave](https://github.com/user-attachments/assets/069812df-a7e4-4ccd-b2fa-c30b10721289)
 ---
