@@ -6,12 +6,12 @@ Bem-vindo ao meu GitHub 🚀
 ---
 
 ### 👨‍💻 Sobre mim  
-• 🎓 **Análise e Desenvolvimento de Sistemas** @ [UNINASSAU](https://www.uninassau.edu.br/) (3/3).
-• 🌐 Curto bastante **desenvolvimento Web e Banco de dados**.
-• ☕ **Gamer Developer** (quem sabe um dia hehe). 
-• 👨‍💻 Manjo um pouco de redes. 
-• 🎸 Músico nas horas vagas.
-• 🔥 Sempre em busca de novos desafios e aprendizados.
+- 🎓 **Análise e Desenvolvimento de Sistemas** @ [UNINASSAU](https://www.uninassau.edu.br/) (3/3).
+- 🌐 Curto bastante **desenvolvimento Web e Banco de dados**.
+- ☕ **Gamer Developer** (quem sabe um dia hehe). 
+- 👨‍💻 Manjo um pouco de redes. 
+- 🎸 Músico nas horas vagas.
+- 🔥 Sempre em busca de novos desafios e aprendizados.
 
 
 ### 🤔 Curiosidade
